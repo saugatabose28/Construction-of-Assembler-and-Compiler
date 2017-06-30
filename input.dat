@@ -1,0 +1,14 @@
+MAIN strt 2000
+BeGIN LDA NUM1
+$$ ADD NUM2
+$$ LDCH CHAR1
+$$ STCH CHAR2
+$$ ST CHAR2
+NuM1 dd 5
+NUM2 resw 1
+NUM2 resw 1
+NUM3 asb 1
+$$ PrNT NUM1
+CHAR1 db C'A'
+CHAR2 resb 1
+$$ end BEGIN

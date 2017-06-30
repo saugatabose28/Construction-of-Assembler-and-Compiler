@@ -1,5 +1,8 @@
 -------------------------------------
 LINE NO.	|ERROR FOUND
 -------------------------------------
-7		|Declaration not allowed hereNo of errors=0
+9		|SYMBOL ALREADY DEFINED
+
+10		|Wrong Opcode
+No of errors=2
 --------------------------------------
